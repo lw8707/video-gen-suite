@@ -1,0 +1,4 @@
+**开发工具集**: 
+- 代码编辑: Cursor, Claude Code, Vis
+- 版本控制: Git, GitHub CLI
+- 终端工具: Termux, Zsh, Tmux

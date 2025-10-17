@@ -1,0 +1,257 @@
+Fri Oct 17 00:35:12 CST 2025: 执行自动上传检查...
+🚀 基于成熟方案的自动上传启动...
+📦 发现更改，自动上传...
+🤖 自动上传钩子触发...
+🚀 基于成熟方案的自动上传启动...
+📦 发现更改，自动上传...
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+  (commit or discard the untracked or modified content in submodules)
+	modified:   "00-\344\277\235\351\231\251\346\240\223/\346\265\213\350\257\225\346\201\242\345\244\215" (modified content)
+
+no changes added to commit (use "git add" and/or "git commit -a")
+To github.com:lw8707/gh-repo-create-autocode-video-gen---public.git
+   738e081..7e75d87  main -> main
+✅ 上传成功: 自动上传: 2025-10-17 00:35:12 - 第16轮成果
+🔗 仓库地址: https://github.com/lw8707/gh-repo-create-autocode-video-gen---public
+[main 7e75d87] 自动上传: 2025-10-17 00:35:12 - 第16轮成果
+ 4 files changed, 221 insertions(+)
+ create mode 100644 upload_monitor.pid
+ create mode 100644 "\345\205\250\345\261\200\344\274\240\346\211\277\346\243\200\346\237\245.py"
+ create mode 100755 "\345\220\257\345\212\250\346\260\270\347\273\255\344\270\212\344\274\240\347\233\221\346\216\247.sh"
+ create mode 100644 "\347\254\25416\350\275\256\344\274\240\346\211\277\345\201\245\345\272\267\346\212\245\345\221\212.json"
+Everything up-to-date
+✅ 上传成功: 自动上传: 2025-10-17 00:35:12 - 第16轮成果
+🔗 仓库地址: https://github.com/lw8707/gh-repo-create-autocode-video-gen---public
+Fri Oct 17 00:40:20 CST 2025: 执行自动上传检查...
+🚀 基于成熟方案的自动上传启动...
+📦 发现更改，自动上传...
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+  (commit or discard the untracked or modified content in submodules)
+	modified:   "00-\344\277\235\351\231\251\346\240\223/\346\265\213\350\257\225\346\201\242\345\244\215" (modified content)
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Everything up-to-date
+✅ 上传成功: 自动上传: 2025-10-17 00:40:20 - 第16轮成果
+🔗 仓库地址: https://github.com/lw8707/gh-repo-create-autocode-video-gen---public
+Fri Oct 17 01:05:55 CST 2025: 执行自动上传检查...
+🚀 基于成熟方案的自动上传启动...
+📦 发现更改，自动上传...
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+  (commit or discard the untracked or modified content in submodules)
+	modified:   "00-\344\277\235\351\231\251\346\240\223/\346\265\213\350\257\225\346\201\242\345\244\215" (modified content)
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Everything up-to-date
+✅ 上传成功: 自动上传: 2025-10-17 01:05:55 - 第16轮成果
+🔗 仓库地址: https://github.com/lw8707/gh-repo-create-autocode-video-gen---public
+Fri Oct 17 01:10:59 CST 2025: 执行自动上传检查...
+🚀 基于成熟方案的自动上传启动...
+📦 发现更改，自动上传...
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+  (commit or discard the untracked or modified content in submodules)
+	modified:   "00-\344\277\235\351\231\251\346\240\223/\346\265\213\350\257\225\346\201\242\345\244\215" (modified content)
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Everything up-to-date
+✅ 上传成功: 自动上传: 2025-10-17 01:10:59 - 第16轮成果
+🔗 仓库地址: https://github.com/lw8707/gh-repo-create-autocode-video-gen---public
+Fri Oct 17 01:20:55 CST 2025: 执行自动上传检查...
+🚀 基于成熟方案的自动上传启动...
+📦 发现更改，自动上传...
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+  (commit or discard the untracked or modified content in submodules)
+	modified:   "00-\344\277\235\351\231\251\346\240\223/\346\265\213\350\257\225\346\201\242\345\244\215" (modified content)
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Everything up-to-date
+✅ 上传成功: 自动上传: 2025-10-17 01:20:55 - 第16轮成果
+🔗 仓库地址: https://github.com/lw8707/gh-repo-create-autocode-video-gen---public
+Fri Oct 17 01:26:07 CST 2025: 执行自动上传检查...
+🚀 基于成熟方案的自动上传启动...
+📦 发现更改，自动上传...
+🤖 自动上传钩子触发...
+🚀 基于成熟方案的自动上传启动...
+📦 发现更改，自动上传...
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+  (commit or discard the untracked or modified content in submodules)
+	modified:   "00-\344\277\235\351\231\251\346\240\223/\346\265\213\350\257\225\346\201\242\345\244\215" (modified content)
+
+no changes added to commit (use "git add" and/or "git commit -a")
+To github.com:lw8707/gh-repo-create-autocode-video-gen---public.git
+   2e4cc60..4f7bbbb  main -> main
+✅ 上传成功: 自动上传: 2025-10-17 01:26:07 - 第16轮成果
+🔗 仓库地址: https://github.com/lw8707/gh-repo-create-autocode-video-gen---public
+[main 4f7bbbb] 自动上传: 2025-10-17 01:26:07 - 第16轮成果
+ 5 files changed, 310 insertions(+), 107 deletions(-)
+ create mode 100644 "MCP\346\234\215\345\212\241\345\231\250\351\233\206\346\210\220\345\231\250.py"
+ create mode 100644 "\345\217\215\345\220\221\346\217\220\351\227\256\347\263\273\347\273\237.py"
+ create mode 100644 "\345\256\214\346\225\264\345\267\245\345\205\267\347\237\251\351\230\265.py"
+ create mode 100644 "\347\273\217\346\265\216\344\273\267\345\200\274\345\210\206\346\236\220\347\263\273\347\273\237.py"
+Everything up-to-date
+✅ 上传成功: 自动上传: 2025-10-17 01:26:07 - 第16轮成果
+🔗 仓库地址: https://github.com/lw8707/gh-repo-create-autocode-video-gen---public
+Fri Oct 17 01:32:40 CST 2025: 执行自动上传检查...
+🚀 基于成熟方案的自动上传启动...
+📦 发现更改，自动上传...
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+  (commit or discard the untracked or modified content in submodules)
+	modified:   "00-\344\277\235\351\231\251\346\240\223/\346\265\213\350\257\225\346\201\242\345\244\215" (modified content)
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Everything up-to-date
+✅ 上传成功: 自动上传: 2025-10-17 01:32:40 - 第16轮成果
+🔗 仓库地址: https://github.com/lw8707/gh-repo-create-autocode-video-gen---public
+Fri Oct 17 01:40:24 CST 2025: 执行自动上传检查...
+🚀 基于成熟方案的自动上传启动...
+📦 发现更改，自动上传...
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+  (commit or discard the untracked or modified content in submodules)
+	modified:   "00-\344\277\235\351\231\251\346\240\223/\346\265\213\350\257\225\346\201\242\345\244\215" (modified content)
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Everything up-to-date
+✅ 上传成功: 自动上传: 2025-10-17 01:40:25 - 第16轮成果
+🔗 仓库地址: https://github.com/lw8707/gh-repo-create-autocode-video-gen---public
+Fri Oct 17 01:45:29 CST 2025: 执行自动上传检查...
+🚀 基于成熟方案的自动上传启动...
+📦 发现更改，自动上传...
+🤖 自动上传钩子触发...
+🚀 基于成熟方案的自动上传启动...
+📦 发现更改，自动上传...
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+  (commit or discard the untracked or modified content in submodules)
+	modified:   "00-\344\277\235\351\231\251\346\240\223/\346\265\213\350\257\225\346\201\242\345\244\215" (modified content)
+
+no changes added to commit (use "git add" and/or "git commit -a")
+To github.com:lw8707/gh-repo-create-autocode-video-gen---public.git
+   225ab4c..918a09d  main -> main
+✅ 上传成功: 自动上传: 2025-10-17 01:45:29 - 第16轮成果
+🔗 仓库地址: https://github.com/lw8707/gh-repo-create-autocode-video-gen---public
+[main 918a09d] 自动上传: 2025-10-17 01:45:29 - 第16轮成果
+ 3 files changed, 21 insertions(+)
+ create mode 100644 anti_delete_monitor.py
+ create mode 100644 quantum_fixer.py
+ create mode 100644 tool_matrix.py
+Everything up-to-date
+✅ 上传成功: 自动上传: 2025-10-17 01:45:29 - 第16轮成果
+🔗 仓库地址: https://github.com/lw8707/gh-repo-create-autocode-video-gen---public
+Fri Oct 17 01:51:46 CST 2025: 执行自动上传检查...
+🚀 基于成熟方案的自动上传启动...
+📦 发现更改，自动上传...
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+  (commit or discard the untracked or modified content in submodules)
+	modified:   "00-\344\277\235\351\231\251\346\240\223/\346\265\213\350\257\225\346\201\242\345\244\215" (modified content)
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Everything up-to-date
+✅ 上传成功: 自动上传: 2025-10-17 01:51:46 - 第16轮成果
+🔗 仓库地址: https://github.com/lw8707/gh-repo-create-autocode-video-gen---public
+Fri Oct 17 01:58:50 CST 2025: 执行自动上传检查...
+🚀 基于成熟方案的自动上传启动...
+📦 发现更改，自动上传...
+🤖 自动上传钩子触发...
+🚀 基于成熟方案的自动上传启动...
+📦 发现更改，自动上传...
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+  (commit or discard the untracked or modified content in submodules)
+	modified:   "00-\344\277\235\351\231\251\346\240\223/\346\265\213\350\257\225\346\201\242\345\244\215" (modified content)
+
+no changes added to commit (use "git add" and/or "git commit -a")
+To github.com:lw8707/gh-repo-create-autocode-video-gen---public.git
+   5b9229c..ecc7441  main -> main
+✅ 上传成功: 自动上传: 2025-10-17 01:58:50 - 第16轮成果
+🔗 仓库地址: https://github.com/lw8707/gh-repo-create-autocode-video-gen---public
+[main ecc7441] 自动上传: 2025-10-17 01:58:50 - 第16轮成果
+ 1 file changed, 7 insertions(+)
+ create mode 100644 "\347\254\25417\350\275\256\344\277\256\345\244\215\347\241\256\350\256\244.md"
+Everything up-to-date
+✅ 上传成功: 自动上传: 2025-10-17 01:58:50 - 第16轮成果
+🔗 仓库地址: https://github.com/lw8707/gh-repo-create-autocode-video-gen---public
+Fri Oct 17 02:05:44 CST 2025: 执行自动上传检查...
+🚀 基于成熟方案的自动上传启动...
+📦 发现更改，自动上传...
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+  (commit or discard the untracked or modified content in submodules)
+	modified:   "00-\344\277\235\351\231\251\346\240\223/\346\265\213\350\257\225\346\201\242\345\244\215" (modified content)
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Everything up-to-date
+✅ 上传成功: 自动上传: 2025-10-17 02:05:45 - 第16轮成果
+🔗 仓库地址: https://github.com/lw8707/gh-repo-create-autocode-video-gen---public
+Fri Oct 17 02:46:28 CST 2025: 执行自动上传检查...
+🚀 基于成熟方案的自动上传启动...
+📦 发现更改，自动上传...
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+  (commit or discard the untracked or modified content in submodules)
+	modified:   "00-\344\277\235\351\231\251\346\240\223/\346\265\213\350\257\225\346\201\242\345\244\215" (modified content)
+
+no changes added to commit (use "git add" and/or "git commit -a")
